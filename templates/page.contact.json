@@ -1,0 +1,85 @@
+{
+  "sections": {
+    "16286200050319255b": {
+      "type": "image-with-text",
+      "blocks": {
+        "16286200050319255b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "We would love to hear from you."
+          }
+        },
+        "16286200050319255b-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Feel free to fill out the forum below regarding any questions, or tell us how we are doing. <\/p>"
+          }
+        },
+        "16286200050319255b-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16286200050319255b-0",
+        "16286200050319255b-1",
+        "16286200050319255b-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/the-world-is-ours-website.jpg",
+        "height": "adapt",
+        "color_scheme": "background-2",
+        "layout": "image_first"
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "settings": {}
+    },
+    "form": {
+      "type": "contact-form",
+      "settings": {}
+    },
+    "162861997833ebd11c": {
+      "type": "newsletter",
+      "disabled": true,
+      "blocks": {
+        "162861997833ebd11c-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Subscribe to our emails"
+          }
+        },
+        "162861997833ebd11c-1": {
+          "type": "paragraph",
+          "settings": {
+            "paragraph": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
+          }
+        },
+        "162861997833ebd11c-2": {
+          "type": "email_form",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "162861997833ebd11c-0",
+        "162861997833ebd11c-1",
+        "162861997833ebd11c-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
+    }
+  },
+  "order": [
+    "16286200050319255b",
+    "main",
+    "form",
+    "162861997833ebd11c"
+  ]
+}
