@@ -38,11 +38,14 @@
     },
     "main": {
       "type": "main-page",
-      "settings": {}
+      "settings": {
+      }
     },
     "form": {
       "type": "contact-form",
-      "settings": {}
+      "disabled": true,
+      "settings": {
+      }
     },
     "162861997833ebd11c": {
       "type": "newsletter",
@@ -62,7 +65,8 @@
         },
         "162861997833ebd11c-2": {
           "type": "email_form",
-          "settings": {}
+          "settings": {
+          }
         }
       },
       "block_order": [
