@@ -1,51 +1,9 @@
 {
   "sections": {
-    "1628619678ec5ba1a6": {
-      "type": "image-banner",
-      "blocks": {
-        "1628619678ec5ba1a6-0": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Image banner"
-          }
-        },
-        "1628619678ec5ba1a6-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template."
-          }
-        },
-        "1628619678ec5ba1a6-2": {
-          "type": "buttons",
-          "disabled": true,
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "1628619678ec5ba1a6-0",
-        "1628619678ec5ba1a6-1",
-        "1628619678ec5ba1a6-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/streetwear.jpg",
-        "desktop_text_box_position": "center",
-        "color_scheme": "background-1",
-        "stack_images_on_mobile": true,
-        "adapt_height_first_image": false
-      }
-    },
     "main": {
       "type": "main-page",
-      "settings": {}
+      "settings": {
+      }
     },
     "16286197749b1724a8": {
       "type": "image-banner",
@@ -89,11 +47,55 @@
         "stack_images_on_mobile": true,
         "adapt_height_first_image": false
       }
+    },
+    "1628619678ec5ba1a6": {
+      "type": "image-banner",
+      "disabled": true,
+      "blocks": {
+        "1628619678ec5ba1a6-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner"
+          }
+        },
+        "1628619678ec5ba1a6-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template."
+          }
+        },
+        "1628619678ec5ba1a6-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1628619678ec5ba1a6-0",
+        "1628619678ec5ba1a6-1",
+        "1628619678ec5ba1a6-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/streetwear.jpg",
+        "desktop_text_box_position": "center",
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "adapt_height_first_image": false
+      }
     }
   },
   "order": [
-    "1628619678ec5ba1a6",
     "main",
-    "16286197749b1724a8"
+    "16286197749b1724a8",
+    "1628619678ec5ba1a6"
   ]
 }
