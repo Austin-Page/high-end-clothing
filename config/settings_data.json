@@ -79,6 +79,13 @@
           "enable_language_selector": true,
           "payment_enable": true
         }
+      },
+      "icons-with-text": {
+        "type": "icons-with-text",
+        "settings": {
+          "heading": "test",
+          "description": "<p>lorem ipsum<\/p>"
+        }
       }
     },
     "content_for_index": [
