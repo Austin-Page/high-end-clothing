@@ -82,6 +82,31 @@
       },
       "icons-with-text": {
         "type": "icons-with-text",
+        "blocks": {
+          "f3ed5179-0b01-4999-9909-7a405e680ada": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/man-hiking-in-mountains.jpg"
+            }
+          },
+          "7b902b28-5e8a-4f63-8039-d1339612638a": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/fashionable-man-by-textured-wall.jpg"
+            }
+          },
+          "c4c56b72-456e-456f-b046-1b71335629a9": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/man-in-suit-on-stairs.jpg"
+            }
+          }
+        },
+        "block_order": [
+          "f3ed5179-0b01-4999-9909-7a405e680ada",
+          "7b902b28-5e8a-4f63-8039-d1339612638a",
+          "c4c56b72-456e-456f-b046-1b71335629a9"
+        ],
         "settings": {
           "heading": "test",
           "description": "<p>lorem ipsum<\/p>"
