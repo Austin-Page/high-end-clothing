@@ -128,11 +128,20 @@
               "custom-text": "This is our new Text Block",
               "font-color": "#dadada"
             }
+          },
+          "0b09ae04-75c7-477b-8e46-091374377153": {
+            "type": "text",
+            "settings": {
+              "custom-text": "Default Text",
+              "font-color": "#000000",
+              "font-size": 20
+            }
           }
         },
         "block_order": [
           "a6851774-2ef5-4d37-b959-3aa77ddd2ed3",
-          "577724f8-fb6f-49cb-8dcd-e7cf0f11c1e5"
+          "577724f8-fb6f-49cb-8dcd-e7cf0f11c1e5",
+          "0b09ae04-75c7-477b-8e46-091374377153"
         ],
         "settings": {
         }
