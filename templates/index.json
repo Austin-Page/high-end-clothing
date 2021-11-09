@@ -157,6 +157,13 @@
         "color_scheme": "accent-1",
         "full_width": false
       }
+    },
+    "1636415205d4c592fe": {
+      "type": "icons-with-text",
+      "settings": {
+        "heading": "",
+        "description": ""
+      }
     }
   },
   "order": [
@@ -164,6 +171,7 @@
     "featured_products",
     "1635800819960319f7",
     "image_text",
-    "1628550943089a25c2"
+    "1628550943089a25c2",
+    "1636415205d4c592fe"
   ]
 }
