@@ -111,6 +111,31 @@
           "heading": "test",
           "description": "<p>lorem ipsum<\/p>"
         }
+      },
+      "block-template": {
+        "type": "block-template",
+        "blocks": {
+          "a6851774-2ef5-4d37-b959-3aa77ddd2ed3": {
+            "type": "text",
+            "settings": {
+              "custom-text": "This is the second Text Block",
+              "font-color": "#d7d6d6"
+            }
+          },
+          "577724f8-fb6f-49cb-8dcd-e7cf0f11c1e5": {
+            "type": "text",
+            "settings": {
+              "custom-text": "This is our new Text Block",
+              "font-color": "#dadada"
+            }
+          }
+        },
+        "block_order": [
+          "a6851774-2ef5-4d37-b959-3aa77ddd2ed3",
+          "577724f8-fb6f-49cb-8dcd-e7cf0f11c1e5"
+        ],
+        "settings": {
+        }
       }
     },
     "content_for_index": [
