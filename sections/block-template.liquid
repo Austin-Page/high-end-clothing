@@ -1,8 +1,28 @@
+{% for block in section.blocks %}
+<p style="color:{{ bloack.settings.font-color }}">{{ block.settings.custom-text }}</p>
+{% endfor %}
 {% schema %}
-  {
-    "name": "Section name",
-    "settings": []
-  }
+
+	{
+	"blocks": [{
+		"type": "text",
+		"name": "text",
+		"settings": [{
+				"type": "text",
+				"id": "custom-text",
+				"default": "Default Text",
+				"label": "Textfield "
+
+			},
+			{
+				"type": "color",
+				"id": "font-color",
+				"default": "#000000",
+				"label": "Font Color"
+			}
+		]
+	}]
+}
 {% endschema %}
 
 {% stylesheet %}
