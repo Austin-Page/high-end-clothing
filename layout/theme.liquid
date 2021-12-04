@@ -121,13 +121,12 @@
     {% section 'announcement-bar' %}
     {% section 'header' %}
 
+    {{ 'Shopify' | link_to: 'https://www.shopify.com' }}
+    
     <main id="MainContent" class="content-for-layout focus-none" role="main" tabindex="-1">
       {{ content_for_layout }}
     </main>
 
-    {{ 'Shopify' | link_to: 'https://www.shopify.com' }}
-
-    
     {% section 'footer' %}
 
     <ul hidden>
