@@ -163,13 +163,15 @@
       "blocks": {
         "1628550943089a25c2-0": {
           "type": "heading",
+          "disabled": true,
           "settings": {
-            "heading": "Est. 2021",
-            "heading_size": "small"
+            "heading": "https:\/\/www.shopify.com\/partners\/shopify-cheat-sheet",
+            "heading_size": "medium"
           }
         },
         "1628550943089a25c2-1": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>We believe in only creating the best Street Wear possible.<\/p>"
           }
@@ -200,6 +202,41 @@
         "heading": "",
         "description": ""
       }
+    },
+    "1638590799382b73cc": {
+      "type": "rich-text",
+      "blocks": {
+        "1638590799648bb035-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "medium"
+          }
+        },
+        "1638590799648bb035-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "1638590799648bb035-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1638590799648bb035-0",
+        "1638590799648bb035-1",
+        "1638590799648bb035-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
     }
   },
   "order": [
@@ -209,6 +246,7 @@
     "1635800819960319f7",
     "image_text",
     "1628550943089a25c2",
-    "1636415205d4c592fe"
+    "1636415205d4c592fe",
+    "1638590799382b73cc"
   ]
 }
