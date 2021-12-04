@@ -49,6 +49,42 @@
         "show_vendor": false
       }
     },
+    "163859060414e3065e": {
+      "type": "image-with-text",
+      "blocks": {
+        "16385906041ab5d9fc-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image with text"
+          }
+        },
+        "16385906041ab5d9fc-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "16385906041ab5d9fc-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shopify",
+            "button_link": "https:\/\/www.shopify.com\/partners\/shopify-cheat-sheet"
+          }
+        }
+      },
+      "block_order": [
+        "16385906041ab5d9fc-0",
+        "16385906041ab5d9fc-1",
+        "16385906041ab5d9fc-2"
+      ],
+      "settings": {
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
     "1635800819960319f7": {
       "type": "collection-list",
       "blocks": {
@@ -169,6 +205,7 @@
   "order": [
     "image_banner",
     "featured_products",
+    "163859060414e3065e",
     "1635800819960319f7",
     "image_text",
     "1628550943089a25c2",
