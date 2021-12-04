@@ -114,12 +114,50 @@
         "heading": "",
         "description": ""
       }
+    },
+    "1638592600a47b8d2b": {
+      "type": "rich-text",
+      "blocks": {
+        "1638592600999951dc-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "medium"
+          }
+        },
+        "1638592600999951dc-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "1638592600999951dc-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shopify",
+            "button_link": "https:\/\/www.shopify.com\/",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1638592600999951dc-0",
+        "1638592600999951dc-1",
+        "1638592600999951dc-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
     }
   },
   "order": [
     "image_banner",
     "1635800819960319f7",
     "image_text",
-    "1636415205d4c592fe"
+    "1636415205d4c592fe",
+    "1638592600a47b8d2b"
   ]
 }
