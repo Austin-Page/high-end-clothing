@@ -134,6 +134,12 @@
         "heading": "",
         "description": ""
       }
+    },
+    "163859287382bed3a1": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": ""
+      }
     }
   },
   "order": [
@@ -141,6 +147,7 @@
     "1638592600a47b8d2b",
     "1635800819960319f7",
     "image_text",
-    "1636415205d4c592fe"
+    "1636415205d4c592fe",
+    "163859287382bed3a1"
   ]
 }
